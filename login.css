@@ -2,14 +2,14 @@
     box-sizing: border-box
     }
     
-    .typecontents { 
+    .typecontents_login { 
         color: black;
         font-size: 15px;
         padding: 15px; 
         width : 100%;
         border: none;
         border-bottom: 2px solid gray;
-        margin: 5px auto 25px auto;
+        margin: 5px auto 20px auto;
         background-color: #f2f5ff; 
     }
     
@@ -22,7 +22,7 @@
         text-align: center; 
     }
     
-    .typebutton { 
+    .typebutton_login { 
         width: 100%;
         color: aliceblue;
         background-color: dodgerblue;
